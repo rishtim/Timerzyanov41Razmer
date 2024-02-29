@@ -1,0 +1,103 @@
+D:\3 курс\исп32\2сем\Timerzyanov41Razmer\bin\Debug\Timerzyanov41Razmer.exe.config
+D:\3 курс\исп32\2сем\Timerzyanov41Razmer\bin\Debug\Timerzyanov41Razmer.exe
+D:\3 курс\исп32\2сем\Timerzyanov41Razmer\bin\Debug\Timerzyanov41Razmer.pdb
+D:\3 курс\исп32\2сем\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer.csproj.AssemblyReference.cache
+D:\3 курс\исп32\2сем\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer.csproj.SuggestedBindingRedirects.cache
+D:\3 курс\исп32\2сем\Timerzyanov41Razmer\obj\Debug\MainWindow.g.cs
+D:\3 курс\исп32\2сем\Timerzyanov41Razmer\obj\Debug\App.g.cs
+D:\3 курс\исп32\2сем\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer_MarkupCompile.cache
+D:\3 курс\исп32\2сем\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer_MarkupCompile.lref
+D:\3 курс\исп32\2сем\Timerzyanov41Razmer\obj\Debug\MainWindow.baml
+D:\3 курс\исп32\2сем\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer.g.resources
+D:\3 курс\исп32\2сем\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer.Properties.Resources.resources
+D:\3 курс\исп32\2сем\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer.csproj.GenerateResource.cache
+D:\3 курс\исп32\2сем\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer.csproj.CoreCompileInputs.cache
+D:\3 курс\исп32\2сем\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer.exe
+D:\3 курс\исп32\2сем\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer.pdb
+D:\3 курс\исп32\2сем\Timerzyanov41Razmer\obj\Debug\AddEditPage.g.cs
+D:\3 курс\исп32\2сем\Timerzyanov41Razmer\obj\Debug\ProductPage.g.cs
+D:\3 курс\исп32\2сем\Timerzyanov41Razmer\obj\Debug\App.baml
+D:\3 курс\исп32\2сем\Timerzyanov41Razmer\obj\Debug\AddEditPage.baml
+D:\3 курс\исп32\2сем\Timerzyanov41Razmer\obj\Debug\ProductPage.baml
+D:\3 курс\ИСП 3221\тимерзянов\Timerzyanov41Razmer\bin\Debug\Timerzyanov41Razmer.exe.config
+D:\3 курс\ИСП 3221\тимерзянов\Timerzyanov41Razmer\bin\Debug\Timerzyanov41Razmer.exe
+D:\3 курс\ИСП 3221\тимерзянов\Timerzyanov41Razmer\bin\Debug\Timerzyanov41Razmer.pdb
+D:\3 курс\ИСП 3221\тимерзянов\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer.csproj.AssemblyReference.cache
+D:\3 курс\ИСП 3221\тимерзянов\Timerzyanov41Razmer\obj\Debug\AddEditPage.g.cs
+D:\3 курс\ИСП 3221\тимерзянов\Timerzyanov41Razmer\obj\Debug\MainWindow.g.cs
+D:\3 курс\ИСП 3221\тимерзянов\Timerzyanov41Razmer\obj\Debug\ProductPage.g.cs
+D:\3 курс\ИСП 3221\тимерзянов\Timerzyanov41Razmer\obj\Debug\App.g.cs
+D:\3 курс\ИСП 3221\тимерзянов\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer_MarkupCompile.cache
+D:\3 курс\ИСП 3221\тимерзянов\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer_MarkupCompile.lref
+D:\3 курс\ИСП 3221\тимерзянов\Timerzyanov41Razmer\obj\Debug\App.baml
+D:\3 курс\ИСП 3221\тимерзянов\Timerzyanov41Razmer\obj\Debug\AddEditPage.baml
+D:\3 курс\ИСП 3221\тимерзянов\Timerzyanov41Razmer\obj\Debug\MainWindow.baml
+D:\3 курс\ИСП 3221\тимерзянов\Timerzyanov41Razmer\obj\Debug\ProductPage.baml
+D:\3 курс\ИСП 3221\тимерзянов\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer.g.resources
+D:\3 курс\ИСП 3221\тимерзянов\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer.Properties.Resources.resources
+D:\3 курс\ИСП 3221\тимерзянов\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer.csproj.GenerateResource.cache
+D:\3 курс\ИСП 3221\тимерзянов\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer.csproj.CoreCompileInputs.cache
+D:\3 курс\ИСП 3221\тимерзянов\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer.exe
+D:\3 курс\ИСП 3221\тимерзянов\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer.pdb
+D:\3 курс\ИСП 3221\тимерзянов\Timerzyanov41Razmer\bin\Debug\EntityFramework.dll
+D:\3 курс\ИСП 3221\тимерзянов\Timerzyanov41Razmer\bin\Debug\EntityFramework.SqlServer.dll
+D:\3 курс\ИСП 3221\тимерзянов\Timerzyanov41Razmer\bin\Debug\EntityFramework.xml
+D:\3 курс\ИСП 3221\тимерзянов\Timerzyanov41Razmer\bin\Debug\EntityFramework.SqlServer.xml
+D:\3 курс\ИСП 3221\тимерзянов\Timerzyanov41Razmer\bin\Debug\ru\EntityFramework.resources.dll
+D:\3 курс\ИСП 3221\тимерзянов\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer_Content.g.cs
+D:\3 курс\ИСП 3221\тимерзянов\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer.csproj.CopyComplete
+D:\3 курс\исп32\тимерзянов\41размер\Timerzyanov41Razmer\bin\Debug\Timerzyanov41Razmer.exe.config
+D:\3 курс\исп32\тимерзянов\41размер\Timerzyanov41Razmer\bin\Debug\Timerzyanov41Razmer.exe
+D:\3 курс\исп32\тимерзянов\41размер\Timerzyanov41Razmer\bin\Debug\Timerzyanov41Razmer.pdb
+D:\3 курс\исп32\тимерзянов\41размер\Timerzyanov41Razmer\bin\Debug\EntityFramework.dll
+D:\3 курс\исп32\тимерзянов\41размер\Timerzyanov41Razmer\bin\Debug\EntityFramework.SqlServer.dll
+D:\3 курс\исп32\тимерзянов\41размер\Timerzyanov41Razmer\bin\Debug\EntityFramework.xml
+D:\3 курс\исп32\тимерзянов\41размер\Timerzyanov41Razmer\bin\Debug\EntityFramework.SqlServer.xml
+D:\3 курс\исп32\тимерзянов\41размер\Timerzyanov41Razmer\bin\Debug\ru\EntityFramework.resources.dll
+D:\3 курс\исп32\тимерзянов\41размер\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer.csproj.AssemblyReference.cache
+D:\3 курс\исп32\тимерзянов\41размер\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer.csproj.SuggestedBindingRedirects.cache
+D:\3 курс\исп32\тимерзянов\41размер\Timerzyanov41Razmer\obj\Debug\AddEditPage.g.cs
+D:\3 курс\исп32\тимерзянов\41размер\Timerzyanov41Razmer\obj\Debug\MainWindow.g.cs
+D:\3 курс\исп32\тимерзянов\41размер\Timerzyanov41Razmer\obj\Debug\ProductPage.g.cs
+D:\3 курс\исп32\тимерзянов\41размер\Timerzyanov41Razmer\obj\Debug\App.g.cs
+D:\3 курс\исп32\тимерзянов\41размер\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer_Content.g.cs
+D:\3 курс\исп32\тимерзянов\41размер\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer_MarkupCompile.cache
+D:\3 курс\исп32\тимерзянов\41размер\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer_MarkupCompile.lref
+D:\3 курс\исп32\тимерзянов\41размер\Timerzyanov41Razmer\obj\Debug\App.baml
+D:\3 курс\исп32\тимерзянов\41размер\Timerzyanov41Razmer\obj\Debug\AddEditPage.baml
+D:\3 курс\исп32\тимерзянов\41размер\Timerzyanov41Razmer\obj\Debug\MainWindow.baml
+D:\3 курс\исп32\тимерзянов\41размер\Timerzyanov41Razmer\obj\Debug\ProductPage.baml
+D:\3 курс\исп32\тимерзянов\41размер\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer.g.resources
+D:\3 курс\исп32\тимерзянов\41размер\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer.Properties.Resources.resources
+D:\3 курс\исп32\тимерзянов\41размер\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer.csproj.GenerateResource.cache
+D:\3 курс\исп32\тимерзянов\41размер\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer.csproj.CoreCompileInputs.cache
+D:\3 курс\исп32\тимерзянов\41размер\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer.csproj.CopyComplete
+D:\3 курс\исп32\тимерзянов\41размер\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer.exe
+D:\3 курс\исп32\тимерзянов\41размер\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer.pdb
+C:\Users\Resha\Desktop\учеба\програм. модули\41razmer\Timerzyanov41Razmer\bin\Debug\Timerzyanov41Razmer.exe.config
+C:\Users\Resha\Desktop\учеба\програм. модули\41razmer\Timerzyanov41Razmer\bin\Debug\Timerzyanov41Razmer.exe
+C:\Users\Resha\Desktop\учеба\програм. модули\41razmer\Timerzyanov41Razmer\bin\Debug\Timerzyanov41Razmer.pdb
+C:\Users\Resha\Desktop\учеба\програм. модули\41razmer\Timerzyanov41Razmer\bin\Debug\EntityFramework.dll
+C:\Users\Resha\Desktop\учеба\програм. модули\41razmer\Timerzyanov41Razmer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Resha\Desktop\учеба\програм. модули\41razmer\Timerzyanov41Razmer\bin\Debug\EntityFramework.xml
+C:\Users\Resha\Desktop\учеба\програм. модули\41razmer\Timerzyanov41Razmer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Resha\Desktop\учеба\програм. модули\41razmer\Timerzyanov41Razmer\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Resha\Desktop\учеба\програм. модули\41razmer\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer.csproj.AssemblyReference.cache
+C:\Users\Resha\Desktop\учеба\програм. модули\41razmer\Timerzyanov41Razmer\obj\Debug\AddEditPage.g.cs
+C:\Users\Resha\Desktop\учеба\програм. модули\41razmer\Timerzyanov41Razmer\obj\Debug\MainWindow.g.cs
+C:\Users\Resha\Desktop\учеба\програм. модули\41razmer\Timerzyanov41Razmer\obj\Debug\ProductPage.g.cs
+C:\Users\Resha\Desktop\учеба\програм. модули\41razmer\Timerzyanov41Razmer\obj\Debug\App.g.cs
+C:\Users\Resha\Desktop\учеба\програм. модули\41razmer\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer_Content.g.cs
+C:\Users\Resha\Desktop\учеба\програм. модули\41razmer\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer_MarkupCompile.cache
+C:\Users\Resha\Desktop\учеба\програм. модули\41razmer\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer_MarkupCompile.lref
+C:\Users\Resha\Desktop\учеба\програм. модули\41razmer\Timerzyanov41Razmer\obj\Debug\App.baml
+C:\Users\Resha\Desktop\учеба\програм. модули\41razmer\Timerzyanov41Razmer\obj\Debug\AddEditPage.baml
+C:\Users\Resha\Desktop\учеба\програм. модули\41razmer\Timerzyanov41Razmer\obj\Debug\MainWindow.baml
+C:\Users\Resha\Desktop\учеба\програм. модули\41razmer\Timerzyanov41Razmer\obj\Debug\ProductPage.baml
+C:\Users\Resha\Desktop\учеба\програм. модули\41razmer\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer.g.resources
+C:\Users\Resha\Desktop\учеба\програм. модули\41razmer\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer.Properties.Resources.resources
+C:\Users\Resha\Desktop\учеба\програм. модули\41razmer\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer.csproj.GenerateResource.cache
+C:\Users\Resha\Desktop\учеба\програм. модули\41razmer\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer.csproj.CoreCompileInputs.cache
+C:\Users\Resha\Desktop\учеба\програм. модули\41razmer\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer.csproj.CopyComplete
+C:\Users\Resha\Desktop\учеба\програм. модули\41razmer\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer.exe
+C:\Users\Resha\Desktop\учеба\програм. модули\41razmer\Timerzyanov41Razmer\obj\Debug\Timerzyanov41Razmer.pdb
